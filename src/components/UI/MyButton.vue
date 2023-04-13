@@ -21,5 +21,12 @@ export default {
   color: teal;
   border: 1px solid teal;
   border-radius: 15px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgba(85, 172, 172, 0.5) ;
+}
+.btn:active {
+  background-color: rgb(145, 227, 227);
 }
 </style>
